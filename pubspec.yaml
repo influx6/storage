@@ -1,0 +1,5 @@
+name: storage
+version: 0.0.1
+author: Alexander Adeniyin Ewetumo <trinoxf@gmail.com>
+homepage: http://github.com/influx6/storage
+description: a simple storage facade to provide standard interface
